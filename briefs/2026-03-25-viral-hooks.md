@@ -414,3 +414,15 @@
 **Engagement:** Viral indie hacker rally post — reshared as a motivational signal across X and LinkedIn
 **Author:** @mdnlabs
 **Source:** https://x.com/mdnlabs/status/2027034606071939098
+
+
+---
+
+### Post TEST
+**Hook:** Test post - notion integration verify
+**Template:** [Test] verify [Notion integration]
+**Structure:** Simple test
+**Why it worked:** Testing the new Notion sync
+**Engagement:** N/A
+**Author:** @test
+**Source:** https://x.com/test
