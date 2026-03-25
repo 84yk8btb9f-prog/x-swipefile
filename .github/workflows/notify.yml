@@ -15,18 +15,11 @@ jobs:
       - name: Get latest brief
         id: brief
         run: |
-          LATEST=$(ls briefs/*.md | sort | tail -1)
-          echo "Found brief: $LATEST"
-          # Build Telegram message (max 3800 chars)
+          LATEST=$(ls briefs/*.md 2>/dev/null | sort | tail -1)
+          if [ -z "$LATEST" ]; then echo "No briefs found"; exit 1; fi
           DATE=$(basename "$LATEST" -viral-hooks.md)
           CONTENT=$(head -80 "$LATEST")
-          MSG="Daily Swipe Brief - $DATE
-Niches: Indie Hacking, Claude Code, AI, Vibe Coding
-
-$CONTENT
-
-Full archive: github.com/84yk8btb9f-prog/x-swipefile"
-          # Truncate to 3800 chars
+          MSG=$(printf "Daily Swipe Brief - %s\nNiches: Indie Hacking, Claude Code, AI, Vibe Coding\n\n%s\n\nFull archive: github.com/84yk8btb9f-prog/x-swipefile" "$DATE" "$CONTENT")
           MSG="${MSG:0:3800}"
           echo "message<<ENDOFMSG" >> $GITHUB_OUTPUT
           echo "$MSG" >> $GITHUB_OUTPUT
