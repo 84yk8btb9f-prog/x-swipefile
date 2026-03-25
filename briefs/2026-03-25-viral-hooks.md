@@ -414,15 +414,3 @@
 **Engagement:** Viral indie hacker rally post — reshared as a motivational signal across X and LinkedIn
 **Author:** @mdnlabs
 **Source:** https://x.com/mdnlabs/status/2027034606071939098
-
-
----
-
-### Post TEST
-**Hook:** Test post - verify plain text no markdown
-**Template:** [Test] verify [thing]
-**Structure:** Simple
-**Why it worked:** Test
-**Engagement:** test
-**Author:** @test
-**Source:** https://x.com/test
