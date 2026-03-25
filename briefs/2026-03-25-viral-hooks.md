@@ -110,3 +110,80 @@
 **Engagement:** High (Naval 2M+ followers, highly amplified)
 **Author:** @naval (Naval Ravikant)
 **Source:** https://x.com/naval/status/2026058635718398029
+
+---
+
+### Post 11
+**Hook:** "gstack is available now. Open source, MIT license, let me know if it works for you. It's just one paste to install it on your local Claude Code, and it's a 2nd one to install it in your repo for your teammates."
+**Template:** "[Tool] is available now. [Access signal]. It's just [N step(s)] to install [on your own], and [N step(s)] to [extend to your team]."
+**Structure:** Tool drop → radical accessibility signal → friction-removing install path → team expansion hook
+**Why it worked:** "Just one paste" and "let me know if it works" transforms a launch into an open invitation — zero gatekeeping + request for feedback creates both conversions and replies.
+**Engagement:** 33,000+ GitHub stars in ~2 weeks; trending on Product Hunt
+**Author:** @garrytan (Garry Tan, YC)
+**Source:** https://x.com/garrytan/status/2032014576557179044
+
+---
+
+### Post 12
+**Hook:** "In the last 60 days: 600,000+ lines of production code (35% tests), 10,000–20,000 lines per day, part-time, while running YC full-time."
+**Template:** "In the last [N days/weeks]: [impressive total output], [N] per day, [qualifier showing it was easy/part-time], while [doing something equally demanding]."
+**Structure:** Time anchor → stacked output metrics → paradox qualifier (part-time) → compounding context (also running a company)
+**Why it worked:** The impossible math — 600K lines while running YC full-time on 4 hours of sleep — forces readers to do the arithmetic in their head and share their disbelief.
+**Engagement:** Viral at SXSW 2026; widely covered by TechCrunch, VentureBeat
+**Author:** @garrytan (Garry Tan, YC)
+**Source:** https://x.com/garrytan/status/2033893184972157370
+
+---
+
+### Post 13
+**Hook:** "My CTO friend texted me: 'Your gstack is crazy. This is like god mode. Your eng review discovered a subtle cross site scripting attack that I don't even think my team is aware of. I will make a bet that over 90% of new repos from today forward will use gstack.'"
+**Template:** "My [trusted peer] [messaged/texted/told] me: '[Superlative tool label]. [Concrete unexpected result]. I will make a bet that [bold prediction].'"
+**Structure:** Trusted-peer social proof → dramatic label ("god mode") → specific real-world proof → bold prediction as CTA
+**Why it worked:** Relaying a friend's private message lends authenticity; the security vulnerability discovery is tangible proof over abstract claims; the "90% of repos" prediction gives readers a shareable take.
+**Engagement:** Viral — sparked both praise and controversy across X and Product Hunt
+**Author:** @garrytan (Garry Tan, YC)
+**Source:** https://x.com/garrytan/status/2032196172430131498
+
+---
+
+### Post 14
+**Hook:** "Claude Code is going mega viral on X. You probably feel overwhelmed with all the content. Don't read it all — instead, just read this one article. I filtered down the 1% of content/tools/resources that are actually worth your time. Guarantee you'll extract alpha."
+**Template:** "[Topic] is going mega viral on X. You probably feel overwhelmed. Don't read it all — instead, [do this one thing]. I filtered down the [1%/best] content that's actually worth your time. Guarantee you'll [outcome]."
+**Structure:** Trend acknowledgment → reader empathy (overwhelm) → contrarian simplification → curator authority signal → bold guarantee
+**Why it worked:** In a content flood, positioning yourself as the filter is more valuable than being another voice — the "don't read it all" is a counterintuitive hook that respects readers' time.
+**Engagement:** High — @milesdeutscher 500K+ followers, widely reshared as a "starter guide"
+**Author:** @milesdeutscher (Miles Deutscher)
+**Source:** https://x.com/milesdeutscher/status/2012237674409796036
+
+---
+
+### Post 15
+**Hook:** "GStack is open source with MIT license, and available now. I'm learning how to get to the edge of building what agentic systems can do as of March 2026, and this is my experiment. Don't player hate, appreciate."
+**Template:** "[Product] is [access signal], and available now. I'm learning how to [push the limits of X], and this is my experiment. Don't [dismiss/hate], [encourage]."
+**Structure:** Launch → humble explorer framing (learning, not teaching) → experiment admission → defiant-but-playful mic drop
+**Why it worked:** "Don't player hate, appreciate" transforms criticism into shareability — critics screenshot it, fans quote-tweet it, and it signals confident vulnerability rather than defensive posturing.
+**Engagement:** Viral across X and crypto/dev Twitter
+**Author:** @garrytan (Garry Tan, YC)
+**Source:** https://x.com/garrytan/status/2033893184972157370
+
+---
+
+### Post 16
+**Hook:** "Building an App Portfolio to $60K/mo after Apple froze his developer account."
+**Template:** "Building a [thing] to [$X/mo] after [company/platform] [did something devastating to them]."
+**Structure:** Outcome metric → adversity pivot ("after X tried to stop them") → implied resilience story
+**Why it worked:** The adversity qualifier ("Apple froze his account") reframes a success story as a comeback narrative — the villain makes the hero's win emotionally resonant and infinitely shareable.
+**Engagement:** One social post reached 600K+ views on X; widely shared on IndieHackers
+**Author:** Viktor Seraleev via @IndieHackers
+**Source:** https://www.indiehackers.com/post/tech/building-an-app-portfolio-to-60k-mo-after-apple-froze-his-developer-account-LD7oNYzKSmWucRfKV1AO
+
+---
+
+### Post 17
+**Hook:** "Breaking up with vibe coding."
+**Template:** "Breaking up with [tool/trend/behavior]."
+**Structure:** Relationship breakup metaphor → contrarian stance on popular trend → reader curiosity gap (why? what happened?)
+**Why it worked:** Personifying a tool/trend as a relationship you're leaving creates emotional resonance and controversy — every advocate of vibe coding feels implicated, driving fierce engagement.
+**Engagement:** Viral HN article; widely shared and debated on X via @betterhn20
+**Author:** @betterhn20 (Hacker News 20)
+**Source:** https://x.com/betterhn20/status/1906183201317388528

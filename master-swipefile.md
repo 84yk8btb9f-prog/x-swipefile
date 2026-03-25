@@ -222,3 +222,87 @@ Structure: "Shift" framing → specific attribution → simple paradigm redefini
 Use when: Commenting on a trend — the em-dash structure makes a simple observation sound like a historical declaration, elevating your take above standard commentary.
 
 ---
+
+## Instant Install Open Invite
+
+> "[Tool] is available now. [Access signal]. It's just [one step] to install it on your own, and [one more step] to extend it to your teammates."
+
+Example: "gstack is available now. Open source, MIT license, let me know if it works for you. It's just one paste to install it on your local Claude Code, and it's a 2nd one to install it in your repo for your teammates." — @garrytan
+
+Structure: Tool drop → radical accessibility signal → zero-friction install path → team expansion hook → open request for feedback
+
+Use when: Launching an open-source tool or free resource — removing every barrier ("one paste") and asking for feedback rather than demanding attention converts more than a traditional launch.
+
+---
+
+## Impossible Productivity Paradox
+
+> "In the last [N days]: [massive output total], [X] per day, [qualifier: part-time/side project], while [equally demanding commitment]."
+
+Example: "In the last 60 days: 600,000+ lines of production code (35% tests), 10,000–20,000 lines per day, part-time, while running YC full-time." — @garrytan
+
+Structure: Time anchor → stacked output metrics → "part-time" paradox qualifier → compounding context (also doing something huge) → implied "how?"
+
+Use when: Sharing AI-powered productivity — the paradox forces readers to do the math themselves, and sharing their disbelief is the engagement mechanism.
+
+---
+
+## Friend Testimonial Relay
+
+> "My [trusted peer] [messaged/texted] me: '[Superlative label]. [Concrete unexpected result]. I will make a bet that [bold prediction].'"
+
+Example: "My CTO friend texted me: 'Your gstack is crazy. This is like god mode. Your eng review discovered a subtle cross site scripting attack that I don't even think my team is aware of. I will make a bet that over 90% of new repos from today forward will use gstack.'" — @garrytan
+
+Structure: Trusted-peer social proof hook → dramatic label → specific tangible proof → bold prediction CTA
+
+Use when: Social proof feels too polished — a private message from a peer lands more authentically than a formal testimonial, and the prediction invites debate that extends your reach.
+
+---
+
+## Overwhelm-Empathy Filter
+
+> "[Trending topic] is going mega viral. You probably feel overwhelmed. Don't read it all — instead, [do this one thing]. I filtered down the [1%/best] content actually worth your time. Guarantee you'll [outcome]."
+
+Example: "Claude Code is going mega viral on X. You probably feel overwhelmed with all the content. Don't read it all — instead, just read this one article. I filtered down the 1% of content/tools/resources that are actually worth your time. Guarantee you'll extract alpha." — @milesdeutscher
+
+Structure: Trend acknowledgment → reader empathy (overwhelm) → contrarian simplification ("don't read it all") → curator authority signal → bold guarantee
+
+Use when: A major topic is flooding the timeline — positioning yourself as the signal-to-noise filter is more valuable than adding another opinion, and the "don't read it all" hook earns respect before the ask.
+
+---
+
+## Humble Experiment Defiance
+
+> "[Product/project] is [access signal], and available now. I'm learning how to [push the limits of X], and this is my experiment. Don't [dismiss it], [encourage it instead]."
+
+Example: "GStack is open source with MIT license, and available now. I'm learning how to get to the edge of building what agentic systems can do as of March 2026, and this is my experiment. Don't player hate, appreciate." — @garrytan
+
+Structure: Launch signal → humble explorer frame (learning, not teaching) → explicit "experiment" admission → defiant-but-playful closer
+
+Use when: Launching something that will attract skeptics — framing as a personal experiment disarms critics while the closer ("don't player hate, appreciate") transforms backlash into a shareable moment.
+
+---
+
+## Adversity Pivot Win
+
+> "Building a [thing] to [$X/mo] after [platform/company] [did something devastating]."
+
+Example: "Building an App Portfolio to $60K/mo after Apple froze his developer account." — @IndieHackers (Viktor Seraleev)
+
+Structure: Outcome metric → adversity pivot ("after X tried to stop them") → implied resilience and comeback story
+
+Use when: Sharing a success story where obstacles were real — the adversity qualifier reframes achievement as a comeback narrative, making the win emotionally resonant and dramatically more shareable than a straightforward milestone post.
+
+---
+
+## Trend Breakup
+
+> "Breaking up with [tool/trend/behavior]."
+
+Example: "Breaking up with vibe coding." — @betterhn20 / Hacker News
+
+Structure: Relationship breakup metaphor applied to a popular tool or trend → implied exposé or change of heart → curiosity gap (why? what happened?)
+
+Use when: Taking a contrarian stance on a currently hyped topic — personifying a tool or trend as a relationship you're ending creates emotional stakes, forces every advocate to feel implicated, and drives fierce engagement from both sides.
+
+---
