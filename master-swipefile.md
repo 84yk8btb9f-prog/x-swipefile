@@ -354,3 +354,75 @@ Structure: First-person present-tense confession → paradigm-shift implication 
 Use when: Describing a behavior shift that signals a larger trend — "I really am" expresses genuine surprise at your own transformation, which creates intimacy and credibility that third-person declarations lack.
 
 ---
+
+## Universal Builder Declaration
+
+> "The winners of [competition] include a [unexpected role 1], [unexpected role 2], and [unexpected role 3]. [Tool] democratized [skill]. Everyone is a [builder/creator]."
+
+Example: "The winners of the Claude Code hackathon includes a cardiologist, musician and a construction worker. Claude Code democratized programming. Everyone is a builder." — @rvivek
+
+Structure: Unexpected winner profiles as proof → paradigm-shift declaration → universal inclusive closer
+
+Use when: Announcing results that challenge who belongs in your space — unexpected people winning is the most powerful social proof that barriers have collapsed, and the "everyone is a builder" closer is universally shareable.
+
+---
+
+## Trend Defense + Resource Drop
+
+> "[Trend] isn't going away. It's only getting [better/faster/bigger]. A directory of the [N] top [tools] real [people] are using today (bookmark this thread):"
+
+Example: "Vibe coding isn't going away. It's only getting better, more powerful, and more popular. A directory of the 29 top vibe coding tools real builders are using today (bookmark this thread):" — @IndieHackers
+
+Structure: Trend defense → triple escalation claim → resource list promise → bookmark CTA
+
+Use when: A trend is being dismissed or has peaked in hype — defending it with a practical resource list rewards believers, converts skeptics, and the "bookmark" CTA trains the algorithm simultaneously.
+
+---
+
+## Niche Expansion Reframe
+
+> "[X] isn't just for [Y] anymore. [New group] are using it to [unexpected/bigger use case] in [compressed timeframe]. Here are [N] examples:"
+
+Example: "Vibe coding isn't just for games anymore. Founders are using it to build real SaaS MVPs in days, not months. AI is writing 90-100% of the code. Here are 7 top-tier examples:" — @IndieHackers
+
+Structure: "Isn't just for X anymore" reframe → expanded use case + timeframe compression → proof metric → numbered examples CTA
+
+Use when: A tool or technique has broken into a new category — this validates the existing community while opening the door for a new audience, effectively doubling reach with a single frame.
+
+---
+
+## Reset Announcement + Authority Quote
+
+> "[Tool] just reset the [space] — and it's [emotional qualifier]. From '[old state]' to [new capability]. [Group] are stunned: [specific proof]. [Authority]: '[Quote showing even experts are shaken].'"
+
+Example: "Claude Code just reset the AI race — and it's terrifyingly beautiful. From 'vibe coding' slop to full websites/apps in hours. Engineers are stunned: one replicated a year's team work in 60 minutes. Karpathy: 'Never felt this behind as a programmer.'" — @SingulantChain
+
+Structure: Reset announcement + emotional qualifier → before/after contrast → social proof example → authority quote that validates the awe
+
+Use when: Reacting to a breakthrough moment — pairing your hyperbole with a credible authority quote transforms a hot take into a credible signal, making it far more shareable than solo commentary.
+
+---
+
+## Quoted Consensus Debunk
+
+> "'[Popular consensus claim].' [Counter-research result]. Not every [consensus thing] succeeds either. Alternative: [Framework in 2–3 punchy lines]. [Memorable closer]."
+
+Example: "'Info products > SaaS because indie hackers can't sell.' Talked to people who sold courses for 2 years. Made almost nothing. Not every info product succeeds either. Alternative: Build for 6 months. Sell for 6 months. Or find a co-founder who can sell while you build. Skills stack." — @priyankapudi
+
+Structure: Quote the hot take → counter it with personal research → symmetric rebuttal → alternative framework → punchy memorable closer
+
+Use when: A popular opinion in your niche is oversimplified — the symmetric "not every X either" rebuttal is fair enough to spark genuine discussion rather than pure backlash, and the quoted opener pulls in both believers and skeptics.
+
+---
+
+## Superlative Resource Discovery
+
+> "This might be the most complete [X] on [platform] right now. Built by [credible source]. Refined for [N months/years] and now open to everyone. Includes: → [benefit 1] → [benefit 2] → [benefit 3]"
+
+Example: "This might be the most complete Claude Code setup on GitHub right now. Built by an Anthropic hackathon winner. Refined for over 10 months and now open to everyone." — @aiwithjainam
+
+Structure: Hedged superlative claim → credibility signal → refinement time → open-access signal → bulleted value list
+
+Use when: Sharing or curating a high-quality resource — "might be the most complete" invites both confirmation and debate, while the refinement period signals depth over a weekend project, earning trust before the click.
+
+---

@@ -227,3 +227,80 @@
 **Why it worked:** "I really am" signals the speaker is as surprised as the reader — present tense makes a philosophical claim feel lived-in and real, creating intimacy and credibility.
 **Engagement:** Andrej Karpathy, Jan 2026 — still heavily cited and shared in March 2026 AI discourse
 **Author:** @karpathy (Andrej Karpathy)
+
+---
+
+### Post 22
+**Hook:** "Congratulations! The winners of the Claude Code hackathon includes a cardiologist, musician and a construction worker. Claude Code democratized programming. Everyone is a builder."
+**Template:** "The winners of [competition] include a [unexpected role 1], [unexpected role 2], and [unexpected role 3]. [Tool] democratized [skill]. Everyone is a [builder/creator]."
+**Structure:** Congratulations frame → unexpected winner profiles → paradigm-shift declaration → universal invitation
+**Why it worked:** A cardiologist, musician, and construction worker winning a coding hackathon is the ultimate proof-by-example that the barrier to building has collapsed.
+**Engagement:** One of the most reshared observations from the Claude Code hackathon period
+**Author:** @rvivek
+**Source:** https://x.com/rvivek/status/2025328603362423113
+
+---
+
+### Post 23
+**Hook:** "Vibe coding isn't going away. It's only getting better, more powerful, and more popular. A directory of the 29 top vibe coding tools real builders are using today (bookmark this thread):"
+**Template:** "[Trend] isn't going away. It's only getting [better/faster/bigger]. A directory of the [N] top [tools] real [people] are using today (bookmark this thread):"
+**Structure:** Trend defense → triple escalation claim → numbered resource list → bookmark CTA
+**Why it worked:** "Bookmark this thread" trains the algorithm while defending the trend — offering practical resources converts believers and fence-sitters alike.
+**Engagement:** High-engagement on the IndieHackers X account; widely referenced in external articles
+**Author:** @IndieHackers
+**Source:** https://x.com/IndieHackers/status/1920967538772508839
+
+---
+
+### Post 24
+**Hook:** "Vibe coding isn't just for games anymore. Founders are using it to build real SaaS MVPs in days, not months. AI is writing 90-100% of the code. Here are 7 top-tier examples (bookmark this thread):"
+**Template:** "[X] isn't just for [Y] anymore. [New group] are using it to [bigger use case] in [compressed timeframe]. [Metric]. Here are [N] examples:"
+**Structure:** Niche expansion claim → use-case escalation → proof metric → numbered examples CTA
+**Why it worked:** "Isn't just for games anymore" validates existing believers while opening the door for a new audience — concrete metrics prevent it reading as hype.
+**Engagement:** Widely referenced across multiple external articles as a high-reach post
+**Author:** @IndieHackers
+**Source:** https://x.com/IndieHackers/status/1907874533333413910
+
+---
+
+### Post 25
+**Hook:** "BREAKING: An Anthropic hackathon winner just gave away the entire system for free. @affaanmustafa beat 100+ participants. Built zenith.chat in 8 hours using Claude Code. Walked away with $15K in API credits. Then he released everything..."
+**Template:** "BREAKING: [Winner] just gave away the entire system for free. Beat [N]+ participants. Built [product] in [N hours] using [tool]. Walked away with [$X]. Then released everything."
+**Structure:** Breaking news format → winner credentials → compressed build time → prize signal → generous giveaway twist
+**Why it worked:** "Walked away with $15K then gave it away" is a plot twist — winning and being generous creates a hero narrative impossible not to share.
+**Engagement:** One of the most widely shared Claude Code posts; indexed across major search engines
+**Author:** @godofprompt
+**Source:** https://x.com/godofprompt/status/2030434516397891732
+
+---
+
+### Post 26
+**Hook:** "This might be the most complete Claude Code setup on GitHub right now. Built by an Anthropic hackathon winner. Refined for over 10 months and now open to everyone."
+**Template:** "This might be the most complete [X] on [platform] right now. Built by [credible source]. Refined for [time] and now open to everyone. Includes: [bulleted list]"
+**Structure:** Hedged superlative → credibility signal → refinement time → open-access invite → bulleted value list
+**Why it worked:** "Might be the most complete" is a humble superlative — invites confirmation and debate while "10 months" signals depth over a weekend project.
+**Engagement:** Widely circulated in Claude Code community
+**Author:** @aiwithjainam (Jainam Parmar)
+**Source:** https://x.com/aiwithjainam/status/2029856270271008942
+
+---
+
+### Post 27
+**Hook:** "Claude Code just reset the AI race — and it's terrifyingly beautiful. From 'vibe coding' slop to full websites/apps in hours. Engineers are stunned: one replicated a year's team work in 60 minutes. Karpathy: 'Never felt this behind as a programmer.'"
+**Template:** "[Tool] just reset the [space] — and it's [emotional qualifier]. From [old state] to [new capability]. [Group] stunned: [specific proof]. [Authority]: '[Quote showing even they are shaken].'"
+**Structure:** Reset announcement + emotional qualifier → before/after contrast → social proof → authority endorsement
+**Why it worked:** Having Karpathy — who coined vibe coding — say he's "never felt this behind" is the ultimate authority-validates-the-hype signal, creating instant reshare urgency.
+**Engagement:** Widely cited in news coverage and blog roundups
+**Author:** @SingulantChain
+**Source:** https://x.com/SingulantChain/status/2011471945968025778
+
+---
+
+### Post 28
+**Hook:** "'Info products > SaaS because indie hackers can't sell.' Talked to people who sold courses for 2 years. Made almost nothing. Not every info product succeeds either. Alternative: Build for 6 months. Sell for 6 months. Or find a co-founder who can sell while you build. Skills stack."
+**Template:** "'[Consensus claim].' [Counter-research]. Not every [consensus thing] succeeds either. Alternative: [Framework step 1]. [Step 2]. Or [option]. [Punchy closer]."
+**Structure:** Quote the hot take → personal counter-research → symmetric rebuttal → alternative framework → punchy closer
+**Why it worked:** Quoting the hot take pulls in both believers and skeptics; the symmetric "not every X either" is fair enough to spark discussion rather than pure backlash.
+**Engagement:** Notable community debate post; indexed across multiple search engines
+**Author:** @priyankapudi (Priyanka Pudi)
+**Source:** https://x.com/priyankapudi/status/1999110202344534187
