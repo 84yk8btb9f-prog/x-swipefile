@@ -304,3 +304,69 @@
 **Engagement:** Notable community debate post; indexed across multiple search engines
 **Author:** @priyankapudi (Priyanka Pudi)
 **Source:** https://x.com/priyankapudi/status/1999110202344534187
+
+---
+
+### Post 29
+**Hook:** "This guy is running a cluster of Claude Code terminals vibe coding apps until he hits $1,000,000. Most interesting person shipping I've seen recently."
+**Template:** "This [person] is [doing remarkable thing] until [they hit audacious goal]. Most interesting person [doing X] I've seen recently."
+**Structure:** Third-person spotlight → extreme commitment framing → personal superlative endorsement
+**Why it worked:** "Most interesting person shipping I've seen recently" from levelsio (a respected authority) acts as social proof amplified by the absurd vision of someone running a terminal cluster toward $1M.
+**Engagement:** High (levelsio 500k+ followers, widely reshared)
+**Author:** @levelsio (Pieter Levels)
+**Source:** https://x.com/levelsio/status/2013023626098852014
+
+---
+
+### Post 30
+**Hook:** "The Claude Code hype is real. Over our @imbue_ai winter break, I wanted to see how fast I could reconstruct the lowest level of our product as an AI engineering principles experiment — vibe engineering, not just vibe coding. In < 2 weeks, I shipped over 50k lines of high quality code."
+**Template:** "The [tool/trend] hype is real. Over [break/downtime], I wanted to see how fast I could [do X] as an experiment — [coined better term], not just [popular term]. In < [timeframe], I shipped [impressive output]."
+**Structure:** Hype validation → personal experiment framing → coined upgrade term → compressed timeline → jaw-dropping output
+**Why it worked:** Validating hype with personal proof is more persuasive than cheerleading — coining "vibe engineering" over "vibe coding" signals sophistication and gives the audience an identity upgrade.
+**Engagement:** High (Josh Albrecht, Imbue AI CEO — widely shared in AI/coding circles)
+**Author:** @joshalbrecht (Josh Albrecht)
+**Source:** https://x.com/joshalbrecht/status/2014771377199579165
+
+---
+
+### Post 31
+**Hook:** "A month ago, I launched GSD. 8.5k+ GitHub stars later, it's become the #1 Claude Code framework for vibe coding successfully. The problem was simple: Claude is brilliant, but without structure it drifts."
+**Template:** "[N time] ago, I launched [thing]. [Metric] later, it's become [superlative claim]. The problem was simple: [tool/trend] is [positive trait], but without [missing element] it [fails in this way]."
+**Structure:** Time anchor → traction metric → category claim → root problem diagnosis in one line
+**Why it worked:** "Claude is brilliant, but without structure it drifts" is a quotable diagnosis of a shared pain — it validates both Claude users and skeptics, making it irresistibly shareable.
+**Engagement:** 8.5k+ GitHub stars; featured across AI newsletters
+**Author:** @official_taches (Lex Christopherson)
+**Source:** https://x.com/official_taches/status/2016562506819342639
+
+---
+
+### Post 32
+**Hook:** "Did Apple just kill every iOS vibe coding app? Apple just dropped Xcode 26.3 with agentic coding. Claude Code + Codex are now built into Xcode. And with MCP support."
+**Template:** "Did [company] just kill every [category] app? [Company] just dropped [product/feature]. [Tool 1] + [Tool 2] are now built into [platform]. And with [additional capability]."
+**Structure:** Rhetorical "did they kill X?" question → answer with the announcement → cascade of capability drops → amplifying "and also" kicker
+**Why it worked:** The rhetorical question triggers instant defensiveness in app developers while promising big news — the cascade of capabilities makes it feel like a news flash even from an individual account.
+**Engagement:** High (Min Choi 300k+ followers; widely cited in iOS developer community)
+**Author:** @minchoi (Min Choi)
+**Source:** https://x.com/minchoi/status/2027409663822561632
+
+---
+
+### Post 33
+**Hook:** "OpenClaw might be the gateway drug for normies to finally start using Claude Code like the rest of us."
+**Template:** "[Product] might be the gateway drug for [underserved group] to finally start [doing what the in-crowd does] like the rest of us."
+**Structure:** "Gateway drug" metaphor → group segmentation ("normies" vs. "the rest of us") → subtle in-group invitation
+**Why it worked:** "Gateway drug" is provocative but playful; the "like the rest of us" creates an in-group that readers want to join, turning a product mention into an identity signal.
+**Engagement:** High (levelsio 500k+ followers; broad Claude Code discussion amplifier)
+**Author:** @levelsio (Pieter Levels)
+**Source:** https://x.com/levelsio/status/2027140114040623501
+
+---
+
+### Post 34
+**Hook:** "Today vibe coding goes pro. Introducing Bolt v2: → World's best agents (Claude Code, Codex) → Built-in backend (hosting, DB, storage) → No error loops, no setup nightmares. Now anyone can build without boundaries."
+**Template:** "Today [trend/category] goes pro. Introducing [product v2]: → [capability 1] → [capability 2] → No [pain point 1], no [pain point 2]. Now anyone can [do big thing] without [barrier]."
+**Structure:** Era graduation declaration → product name drop → triple capability bullets → pain-point eliminations → universal empowerment closer
+**Why it worked:** "Today X goes pro" signals a category graduation moment — pairing it with specific pain point eliminations ("no error loops") makes the promise feel earned rather than marketing fluff.
+**Engagement:** High (bolt.new launch announcement; widely shared on Product Hunt and X)
+**Author:** @boltdotnew (Bolt.new)
+**Source:** https://x.com/boltdotnew/status/1973063093849567591

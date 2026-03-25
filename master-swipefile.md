@@ -426,3 +426,75 @@ Structure: Hedged superlative claim → credibility signal → refinement time �
 Use when: Sharing or curating a high-quality resource — "might be the most complete" invites both confirmation and debate, while the refinement period signals depth over a weekend project, earning trust before the click.
 
 ---
+
+## Third-Person Superlative Spotlight
+
+> "This [person] is [doing remarkable thing] until [audacious goal]. Most interesting person [doing X] I've seen recently."
+
+Example: "This guy is running a cluster of Claude Code terminals vibe coding apps until he hits $1,000,000. Most interesting person shipping I've seen recently." — @levelsio
+
+Structure: Third-person spotlight → extreme commitment framing → personal superlative endorsement
+
+Use when: Amplifying someone else's work — "most interesting person X I've seen recently" is a curator's endorsement that transfers your credibility to the subject, making it irresistible social proof for your audience.
+
+---
+
+## Hype Validation + Coined Upgrade
+
+> "The [tool/trend] hype is real. Over [break/downtime], I [experimented with X] — [coined better term], not just [popular term]. In < [timeframe], I [impressive output]."
+
+Example: "The Claude Code hype is real. Over our winter break, I rebuilt our core product as an experiment — vibe engineering, not just vibe coding. In < 2 weeks, I shipped over 50k lines of high quality code." — @joshalbrecht
+
+Structure: Hype validation with personal proof → coined upgrade term → compressed timeline → jaw-dropping output
+
+Use when: Validating a hyped trend while positioning yourself above it — coining a more sophisticated term ("vibe engineering" vs. "vibe coding") gives your audience an identity upgrade while the personal experiment grounds the take in credibility.
+
+---
+
+## Traction + Root Problem Diagnosis
+
+> "[N time] ago, I launched [thing]. [Metric] later, it's become [superlative claim]. The problem was simple: [thing] is [positive trait], but without [element] it [fails this way]."
+
+Example: "A month ago, I launched GSD. 8.5k+ GitHub stars later, it's become the #1 Claude Code framework for vibe coding successfully. The problem was simple: Claude is brilliant, but without structure it drifts." — @official_taches
+
+Structure: Time anchor → traction metric → category claim → one-line root problem diagnosis
+
+Use when: Launching or growing a tool that solves a subtle pain — the "X is brilliant, but..." structure validates the ecosystem while positioning your solution as the missing piece, earning both adherents and skeptics as allies.
+
+---
+
+## Rhetorical Question Bomb
+
+> "Did [company] just kill every [category] [thing]? [Company] just dropped [product/feature]. [Tool 1] + [Tool 2] are now built into [platform]. And with [additional capability]."
+
+Example: "Did Apple just kill every iOS vibe coding app? Apple just dropped Xcode 26.3 with agentic coding. Claude Code + Codex are now built into Xcode. And with MCP support." — @minchoi
+
+Structure: "Did they kill X?" rhetorical question → confirmation with the news → cascade of capabilities → amplifying kicker
+
+Use when: Reacting to a platform move that threatens an existing ecosystem — the rhetorical question creates instant stakes for anyone in the affected category, driving both panic-shares and debate.
+
+---
+
+## Gateway Drug In-Group Invite
+
+> "[Product] might be the gateway drug for [underserved group] to finally start [doing what the in-crowd does] like the rest of us."
+
+Example: "OpenClaw might be the gateway drug for normies to finally start using Claude Code like the rest of us." — @levelsio
+
+Structure: "Gateway drug" metaphor → group segmentation ("normies" vs. "the rest of us") → subtle in-group invitation
+
+Use when: Introducing a beginner-friendly entry point to a tool your audience already uses — the in-group framing makes existing users feel validated while making newcomers feel invited rather than excluded.
+
+---
+
+## Era Graduation Announcement
+
+> "Today [trend/category] goes pro. Introducing [product v2]: → [capability 1] → [capability 2] → No [pain point 1], no [pain point 2]. Now anyone can [do big thing] without [barrier]."
+
+Example: "Today vibe coding goes pro. Introducing Bolt v2: → World's best agents (Claude Code, Codex) → Built-in backend (hosting, DB, storage) → No error loops, no setup nightmares. Now anyone can build without boundaries." — @boltdotnew
+
+Structure: Era graduation declaration → product name drop → triple capability bullets → pain-point eliminations → universal empowerment closer
+
+Use when: Launching a v2 or category-defining upgrade — "today X goes pro" signals a moment of maturation that makes early adopters proud and late adopters feel it's finally safe to join, simultaneously rewarding both groups.
+
+---
