@@ -306,3 +306,51 @@ Structure: Relationship breakup metaphor applied to a popular tool or trend → 
 Use when: Taking a contrarian stance on a currently hyped topic — personifying a tool or trend as a relationship you're ending creates emotional stakes, forces every advocate to feel implicated, and drives fierce engagement from both sides.
 
 ---
+
+## Objection Flip + Zero-Risk Offer
+
+> "Rather than assume [critics' negative frame], how about you [challenge to try it]. I'll give you a [guarantee] — which is easy because [reason the guarantee costs nothing]."
+
+Example: "Rather than assume I'm doing it wrong, how about you try and see it work for you. I'll give you a money back guarantee, which is easy because it's free open source." — @garrytan
+
+Structure: Reframe the critic's assumption → open challenge → ironic guarantee that undercuts all objections
+
+Use when: Responding to criticism of a free or low-cost product — the "money back guarantee on a free thing" is rhetorical judo that makes detractors look unreasonable while inviting genuine engagement.
+
+---
+
+## Parallel Contrast Aphorism
+
+> "[Trendy activity] is easy. [Adjacent painful activity] is the hard part."
+
+Example: "Vibe coding is easy. Vibe debugging is the hard part." — @catalinmpit
+
+Structure: Validating setup → sharp contrast pivot → shared pain point punchline
+
+Use when: Offering a hot take on a trend you participate in — the parallel structure is instantly quotable, relatable to practitioners, and gets shared by both believers and skeptics simultaneously.
+
+---
+
+## Self-Incriminating Confession
+
+> "I have no idea what my [thing I own or built] does."
+
+Example: "I have no idea what my codebase does." — viral thread, March 2026
+
+Structure: Blunt self-incriminating confession → implied "and that's a problem" → thread unpacking the failure mode
+
+Use when: Voicing a fear your audience privately shares — the vulnerability creates instant relatability, drives saves from people who recognize themselves, and invites defenders and critics alike into the comments.
+
+---
+
+## First-Person Behavioral Confession
+
+> "I really am mostly [doing paradigm-defining activity] now."
+
+Example: "I really am mostly programming in English now." — @karpathy
+
+Structure: First-person present-tense confession → paradigm-shift implication → invites reader self-reflection
+
+Use when: Describing a behavior shift that signals a larger trend — "I really am" expresses genuine surprise at your own transformation, which creates intimacy and credibility that third-person declarations lack.
+
+---

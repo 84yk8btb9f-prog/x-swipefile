@@ -187,3 +187,43 @@
 **Engagement:** Viral HN article; widely shared and debated on X via @betterhn20
 **Author:** @betterhn20 (Hacker News 20)
 **Source:** https://x.com/betterhn20/status/1906183201317388528
+
+---
+
+### Post 18
+**Hook:** "Rather than assume I'm doing it wrong, how about you try and see it work for you. I'll give you a money back guarantee, which is easy because it's free open source."
+**Template:** "Rather than assume [critics' negative frame], how about you [challenge to try it]. I'll give you a [guarantee] — which is easy because [reason the guarantee costs nothing]."
+**Structure:** Reframe the critic's assumption → open challenge → ironic guarantee that undercuts all objections
+**Why it worked:** "Money back guarantee on a free product" is rhetorical judo — it makes critics look unreasonable while inviting genuine engagement at zero cost.
+**Engagement:** Part of the viral gstack debate thread; widely screenshotted and shared
+**Author:** @garrytan (Garry Tan, YC)
+
+---
+
+### Post 19
+**Hook:** "Vibe coding is easy. Vibe debugging is the hard part."
+**Template:** "[Trendy activity] is easy. [Adjacent painful activity] is the hard part."
+**Structure:** Validating setup → sharp contrast pivot → shared pain point punchline
+**Why it worked:** Parallel sentence structure hits like an aphorism — instantly quotable, relatable to anyone who's shipped with AI tools, and retweeted by both believers and skeptics.
+**Engagement:** 5,000+ likes within two weeks
+**Author:** @catalinmpit
+
+---
+
+### Post 20
+**Hook:** "I have no idea what my codebase does."
+**Template:** "I have no idea what my [thing I own/built] does."
+**Structure:** Blunt self-incriminating confession → implied "and that's a problem" → thread unpacking the failure mode
+**Why it worked:** The confession is shockingly honest and universally feared by developers using AI to ship fast — the relatability drives saves, shares, and heated replies from both camps.
+**Engagement:** Most-liked post in the vibe coding backlash category, Week of March 21 2026
+**Author:** Viral thread author (widely circulated)
+
+---
+
+### Post 21
+**Hook:** "I really am mostly programming in English now."
+**Template:** "I really am mostly [doing paradigm-defining activity] now."
+**Structure:** First-person present-tense confession → paradigm-shift implication → invites reader self-reflection
+**Why it worked:** "I really am" signals the speaker is as surprised as the reader — present tense makes a philosophical claim feel lived-in and real, creating intimacy and credibility.
+**Engagement:** Andrej Karpathy, Jan 2026 — still heavily cited and shared in March 2026 AI discourse
+**Author:** @karpathy (Andrej Karpathy)
