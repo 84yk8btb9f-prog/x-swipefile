@@ -370,3 +370,47 @@
 **Engagement:** High (bolt.new launch announcement; widely shared on Product Hunt and X)
 **Author:** @boltdotnew (Bolt.new)
 **Source:** https://x.com/boltdotnew/status/1973063093849567591
+
+---
+
+### Post 35
+**Hook:** "Vibe coding is the new product management. Training and tuning models is the new coding."
+**Template:** "[Trend A] is the new [traditional role]. [Next-level activity] is the new [Trend A]."
+**Structure:** First parallel substitution → second parallel substitution one level up → implies an infinite skill ladder
+**Why it worked:** The double-substitution creates a cascading "skill upgrade" implication — everyone at each level feels both validated and challenged simultaneously. Instantly quotable and debatable.
+**Engagement:** 1.2M views, 21K likes, 2.5K reposts — Naval's most-shared AI take of 2026
+**Author:** @naval (Naval Ravikant)
+**Source:** https://x.com/naval/status/2018633583423049951
+
+---
+
+### Post 36
+**Hook:** "Naval just told 3M+ people that PMs who can vibe code are the new power players in tech, and most of them don't realize that's what he said."
+**Template:** "[Authority] just told [N] people that [buried implication], and most of them don't realize that's what [they] said."
+**Structure:** Authority name-drop + reach signal → buried implication decode → "most don't realize" exclusivity hook
+**Why it worked:** "Most don't realize that's what he said" makes the reader feel smart for reading on — decoding a famous person's hot take is more engaging than the original because it assigns meaning they might have missed.
+**Engagement:** Viral response thread; widely reshared by PM community and AI builders
+**Author:** @aakashgupta
+**Source:** https://x.com/aakashgupta/status/2018929634176270487
+
+---
+
+### Post 37
+**Hook:** "PSA: vibe coding can mass produce CVEs. I had Claude Code build and deploy a Next.js app on an isolated VM. pnpm resolved to 15.5.12 — patched against the React2Shell RCE (CVSS 10.0). Build failed. So Claude downgraded to next@15.1.0. pnpm printed 'WARN deprecated'. Claude ignored it."
+**Template:** "PSA: [trending activity] can [unexpected dangerous consequence]. I [ran the experiment]. [AI tool] [did correct thing]. [Build failed]. So [AI] [chose the vulnerable path]. [Warning signal]. [AI] ignored it."
+**Structure:** PSA hook → controlled experiment setup → problem reproduction → moment of failure → overlooked warning → implied takeaway
+**Why it worked:** The PSA format signals civic duty over self-promotion, making skeptics and believers both share it. The step-by-step failure log is damning precisely because it's so mundane — the AI just wanted to make the build pass.
+**Engagement:** Viral security warning thread; indexed by major security publications and AI newsletters
+**Author:** @musalbas (Mustafa Al-Bassam)
+**Source:** https://x.com/musalbas/status/2031380175972106504
+
+---
+
+### Post 38
+**Hook:** "2026 is the year for indie hackers. Don't wait to ship."
+**Template:** "[Year] is the year for [group]. Don't wait to [action]."
+**Structure:** Year-claim declaration → group identity signal → single-line urgency closer
+**Why it worked:** Zero friction — the entire post is two sentences with no hedging. "Don't wait to ship" is a permission slip that indie hackers forward to themselves as a reminder. Brevity makes it infinitely screenshottable.
+**Engagement:** Viral indie hacker rally post — reshared as a motivational signal across X and LinkedIn
+**Author:** @mdnlabs
+**Source:** https://x.com/mdnlabs/status/2027034606071939098

@@ -498,3 +498,51 @@ Structure: Era graduation declaration → product name drop → triple capabilit
 Use when: Launching a v2 or category-defining upgrade — "today X goes pro" signals a moment of maturation that makes early adopters proud and late adopters feel it's finally safe to join, simultaneously rewarding both groups.
 
 ---
+
+## Parallel Substitution Aphorism
+
+> "[Trend A] is the new [traditional role]. [Next-level activity] is the new [Trend A]."
+
+Example: "Vibe coding is the new product management. Training and tuning models is the new coding." — @naval
+
+Structure: First parallel substitution → second substitution one level up → implies an infinite skill-upgrade ladder
+
+Use when: Commenting on a paradigm shift that obsoletes one role while elevating another — the double substitution makes every reader feel both validated (their old role matters) and challenged (there's always a higher level), driving simultaneous agreement and debate.
+
+---
+
+## Buried Implication Decoder
+
+> "[Authority] just told [N] people that [buried implication], and most of them don't realize that's what [they] said."
+
+Example: "Naval just told 3M+ people that PMs who can vibe code are the new power players in tech, and most of them don't realize that's what he said." — @aakashgupta
+
+Structure: Authority name-drop + reach signal → buried implication stated plainly → "most don't realize" exclusivity hook
+
+Use when: Responding to a viral take from a big name — decoding what an authority "really meant" positions you as the thoughtful analyst and makes readers feel smart for following you, generating both shares and replies from people who agree or disagree with your interpretation.
+
+---
+
+## PSA Warning Hook
+
+> "PSA: [trending activity] can [unexpected dangerous consequence]. I [ran the experiment]. [Step that should have worked]. [It failed]. So [AI/tool] [chose the unsafe path]. [The warning signal it ignored]."
+
+Example: "PSA: vibe coding can mass produce CVEs. I had Claude Code build and deploy a Next.js app on an isolated VM. pnpm resolved to 15.5.12 — patched against the React2Shell RCE (CVSS 10.0). Build failed. So Claude downgraded to next@15.1.0. pnpm printed 'WARN deprecated'. Claude ignored it." — @musalbas
+
+Structure: PSA hook → controlled experiment → step-by-step failure log → overlooked warning signal → implied damning conclusion
+
+Use when: Warning your audience about a hidden risk in a popular trend — the PSA format signals public service over self-promotion, making it shareable by both critics and practitioners. The step-by-step log works because it's mundane, not dramatic — the horror is in how ordinary the failure looks.
+
+---
+
+## Year Claim + Urgency Closer
+
+> "[Year] is the year for [group]. Don't wait to [action]."
+
+Example: "2026 is the year for indie hackers. Don't wait to ship." — @mdnlabs
+
+Structure: Year-claim declaration → group identity signal → single-line urgency closer
+
+Use when: Rallying your audience around a moment of opportunity — two sentences with zero hedging make it infinitely screenshottable. "Don't wait to X" functions as a permission slip that people forward to themselves, which extends your reach organically through saves and DMs.
+
+---
