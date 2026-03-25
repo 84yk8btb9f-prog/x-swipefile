@@ -1,0 +1,58 @@
+name: Telegram Notify on Swipefile Update
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'briefs/**'
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Get latest brief
+        id: brief
+        run: |
+          LATEST=$(ls briefs/*.md | sort | tail -1)
+          echo "Found brief: $LATEST"
+          # Build Telegram message (max 3800 chars)
+          DATE=$(basename "$LATEST" -viral-hooks.md)
+          CONTENT=$(head -80 "$LATEST")
+          MSG="Daily Swipe Brief - $DATE
+Niches: Indie Hacking, Claude Code, AI, Vibe Coding
+
+$CONTENT
+
+Full archive: github.com/84yk8btb9f-prog/x-swipefile"
+          # Truncate to 3800 chars
+          MSG="${MSG:0:3800}"
+          echo "message<<ENDOFMSG" >> $GITHUB_OUTPUT
+          echo "$MSG" >> $GITHUB_OUTPUT
+          echo "ENDOFMSG" >> $GITHUB_OUTPUT
+
+      - name: Send Telegram message
+        run: |
+          python3 -c "
+          import urllib.request, urllib.parse, json, os
+          msg = os.environ['MSG']
+          data = urllib.parse.urlencode({
+            'chat_id': os.environ['CHAT_ID'],
+            'text': msg
+          }).encode()
+          req = urllib.request.Request(
+            'https://api.telegram.org/bot' + os.environ['BOT_TOKEN'] + '/sendMessage',
+            data=data
+          )
+          res = urllib.request.urlopen(req)
+          result = json.loads(res.read().decode())
+          print('ok:', result.get('ok'))
+          if not result.get('ok'):
+              print('Error:', result)
+              exit(1)
+          "
+        env:
+          BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          MSG: ${{ steps.brief.outputs.message }}
