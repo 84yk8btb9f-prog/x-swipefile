@@ -12,40 +12,55 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Get latest brief
-        id: brief
+      - name: Send brief to Telegram
         run: |
-          LATEST=$(ls briefs/*.md 2>/dev/null | sort | tail -1)
-          if [ -z "$LATEST" ]; then echo "No briefs found"; exit 1; fi
-          DATE=$(basename "$LATEST" -viral-hooks.md)
-          CONTENT=$(head -80 "$LATEST")
-          MSG=$(printf "Daily Swipe Brief - %s\nNiches: Indie Hacking, Claude Code, AI, Vibe Coding\n\n%s\n\nFull archive: github.com/84yk8btb9f-prog/x-swipefile" "$DATE" "$CONTENT")
-          MSG="${MSG:0:3800}"
-          echo "message<<ENDOFMSG" >> $GITHUB_OUTPUT
-          echo "$MSG" >> $GITHUB_OUTPUT
-          echo "ENDOFMSG" >> $GITHUB_OUTPUT
+          python3 << 'PYEOF'
+          import urllib.request, urllib.parse, json, os, glob
 
-      - name: Send Telegram message
-        run: |
-          python3 -c "
-          import urllib.request, urllib.parse, json, os
-          msg = os.environ['MSG']
-          data = urllib.parse.urlencode({
-            'chat_id': os.environ['CHAT_ID'],
-            'text': msg
-          }).encode()
-          req = urllib.request.Request(
-            'https://api.telegram.org/bot' + os.environ['BOT_TOKEN'] + '/sendMessage',
-            data=data
-          )
-          res = urllib.request.urlopen(req)
-          result = json.loads(res.read().decode())
-          print('ok:', result.get('ok'))
-          if not result.get('ok'):
-              print('Error:', result)
-              exit(1)
-          "
+          BOT_TOKEN = os.environ['BOT_TOKEN']
+          CHAT_ID = os.environ['CHAT_ID']
+
+          def send(text):
+              data = urllib.parse.urlencode({'chat_id': CHAT_ID, 'text': text}).encode()
+              req = urllib.request.Request(
+                  f'https://api.telegram.org/bot{BOT_TOKEN}/sendMessage', data=data)
+              res = urllib.request.urlopen(req)
+              result = json.loads(res.read().decode())
+              if not result.get('ok'):
+                  print('Error:', result)
+                  raise SystemExit(1)
+
+          briefs = sorted(glob.glob('briefs/*.md'))
+          if not briefs:
+              print('No briefs found'); raise SystemExit(1)
+          brief_path = briefs[-1]
+          date = os.path.basename(brief_path).replace('-viral-hooks.md', '')
+          content = open(brief_path).read()
+
+          sections = content.split('\n---\n')
+
+          MAX = 4000
+          chunks = []
+          current = f"Daily Swipe Brief — {date}\n\n"
+          for section in sections:
+              section = section.strip()
+              if not section:
+                  continue
+              block = section + '\n\n---\n\n'
+              if len(current) + len(block) > MAX:
+                  if current.strip():
+                      chunks.append(current.strip())
+                  current = block
+              else:
+                  current += block
+          if current.strip():
+              chunks.append(current.strip())
+
+          print(f'Sending {len(chunks)} messages...')
+          for i, chunk in enumerate(chunks, 1):
+              send(chunk)
+              print(f'Sent message {i}/{len(chunks)}')
+          PYEOF
         env:
           BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-          MSG: ${{ steps.brief.outputs.message }}
