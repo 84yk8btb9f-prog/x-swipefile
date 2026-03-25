@@ -102,3 +102,123 @@ Structure: Contrarian recommendation → personal observation as proof → impli
 Use when: Sharing a distribution insight or untapped channel — the "actually recommend" framing signals this is a hot take worth debating.
 
 ---
+
+## Official Launch with Scarcity Signal
+
+> "Introducing [product/feature], now in [access tier]. It [does thing] and [delivers outcome]."
+
+Example: "Introducing Claude Code Security, now in limited research preview. It scans codebases for vulnerabilities and suggests targeted software patches." — @claudeai
+
+Structure: Announcement → access signal (scarcity/exclusivity) → two-line capability summary
+
+Use when: Launching a new product or feature — "limited preview" signals exclusivity and drives FOMO while the two-line summary gives just enough to spark curiosity.
+
+---
+
+## Internal Metric Proof Drop
+
+> "New in [product]: [Feature]. [How it works in one sentence]. [Internal metric] is up [X%] this year."
+
+Example: "New in Claude Code: Code Review. A team of agents runs a deep review on every PR. Code output per Anthropic engineer is up 200% this year." — @bcherny
+
+Structure: Feature drop → mechanism explanation → internal proof metric
+
+Use when: Announcing a feature you also use internally — sharing your own before/after metric makes the announcement feel authentic and backed by real data.
+
+---
+
+## Time-Anchored Viral Origin Story
+
+> "[N] days ago, I [built/launched/posted] a [thing] and it went viral — [number] people [did action]."
+
+Example: "3 days ago, I vibe coded a game and it went viral — 350k+ people watched me try to beat my high score." — @averycode
+
+Structure: Time anchor → simple action → viral outcome → specific proof number
+
+Use when: Sharing an unexpected win — the recency ("3 days ago") creates immediacy and the specific number makes the claim verifiable and credible.
+
+---
+
+## Shocking Stat + Disbelief Deflection
+
+> "For [X%] of [group], [Y%] of [metric] are [AI/automated]. That's not a typo. The age of [thing] is here."
+
+Example: "For 25% of the Winter 2025 batch, 95% of lines of code are LLM generated. That's not a typo. The age of vibe coding is here." — @garrytan
+
+Structure: Shocking stat → disbelief deflection → era-defining declaration
+
+Use when: Sharing a counterintuitive data point — "That's not a typo" is a pattern interrupt that forces re-reading and signals you know the number sounds impossible.
+
+---
+
+## Age + Track Record + Era Claim
+
+> "I'm [age]. I've [credibility signal]. [N] [dramatic label] that make this the BEST time to [action] in a [timespan]."
+
+Example: "I'm 36. I've sold 3 startups. 20 MEGA shifts that make this the BEST time to build in a GENERATION." — @gregisenberg
+
+Structure: Age + track record → bold era-defining claim → numbered list promise
+
+Use when: Opening a long thread or essay — the age humanizes the credibility, and "best time in a generation" is a shareable, debate-sparking claim.
+
+---
+
+## Conditional Disqualification
+
+> "If [negative condition], You're Not a [desirable category]."
+
+Example: "If Growth Isn't Accelerating, You're Not an AI Company." — @jasonlk
+
+Structure: Single conditional → category disqualification → implicit self-audit prompt
+
+Use when: Making a bold industry claim — the blunt disqualification forces readers to instantly audit themselves, driving replies and heated debate.
+
+---
+
+## Consensus vs. Contrarian Expert
+
+> "[Consensus view] will tell you [negative claim]. [Contrarian expert] will tell you they're all full of shit."
+
+Example: "VCs will tell you SaaS is dead. @toddsaunders will tell you they're all full of shit." — @JayKapoorNYC
+
+Structure: Establish consensus → introduce the contrarian → profanity for emphasis and shareability
+
+Use when: Positioning someone (yourself or another) as a contrarian expert — creates two sides instantly, driving clicks, replies, and debate.
+
+---
+
+## Portfolio Stacking Proof
+
+> "[Person] built [N] separate [products] to [per-product milestone]. Their entire portfolio is generating [impressive total] per month."
+
+Example: "He built FOUR separate SaaS to $100K+ MRR. His entire portfolio is generating $700K per month." — @starter_story
+
+Structure: Quantity signal → per-product milestone → portfolio total → implied "how?"
+
+Use when: Profiling a founder's success — stacking metrics (N products × milestone = total) makes the math satisfying to verify, keeping readers engaged to click through.
+
+---
+
+## Unexpected Founder + Compressed Timeline
+
+> "[Unexpected founder profile] [achieved milestone]. Launched in [short timeframe] and [outcome] [N] days later."
+
+Example: "15-year-old sold his testimonial widget startup. Launched the SaaS in 1 week and sold it 31 days later on TrustMRR." — @marclou
+
+Structure: Identity hook (age/background) → milestone → compressed timeline → platform/channel name drop
+
+Use when: Sharing a founder story — an unexpected identity (young, non-technical, unconventional) + extreme speed makes the outcome feel both aspirational and accessible.
+
+---
+
+## Shift Attribution Reframe
+
+> "There's been a shift — most pronounced by [tool/event] — [group] are [doing paradigm-changing thing]."
+
+Example: "There's been a shift — most pronounced by Claude Code — vibe coders are using English as a programming language." — @naval
+
+Structure: "Shift" framing → specific attribution → simple paradigm redefinition
+
+Use when: Commenting on a trend — the em-dash structure makes a simple observation sound like a historical declaration, elevating your take above standard commentary.
+
+---
