@@ -102,3 +102,99 @@ Structure: Shared pain acknowledgment → vulnerability signal → practical sol
 Use when: You've solved a niche, embarrassing, or frustrating problem that others won't admit they have — the humility hook makes it safe to engage.
 
 ---
+
+## The Definitive Power-User Cheat Sheet
+
+> "Every [Tool] Hack I Know ([Month Year])"
+
+Example: "Every Claude Code Hack I Know (March 2026)" — @mvanhorn
+
+Structure: Definitive authority claim → curated list of power-user tips → implied completeness
+
+Use when: You've accumulated a deep set of tips, tricks, or shortcuts for a popular tool — the "every X I know" framing signals mastery and the date stamp makes it timely.
+
+---
+
+## The Full Ecosystem Roundup
+
+> "everything [company/tool] has shipped in [year] and how to actually use it"
+
+Example: "everything claude has shipped in 2026 and how to actually use it" — @kloss_xyz
+
+Structure: Exhaustive changelog framing → implicit curation promise → practical usage angle
+
+Use when: A product or company has shipped lots of updates that are getting lost in the noise — packaging them as "here's everything + how to use it" gives readers curation AND action in one thread.
+
+---
+
+## The Category Goes Pro Launch
+
+> "Today [category] goes pro. Introducing [Product v2]: → [Feature 1] → [Feature 2] → [Pain killer]. Now anyone can [empowering outcome]."
+
+Example: "Today vibe coding goes pro. Introducing Bolt v2: → World's best agents (Claude Code, Codex) → Built in backend → No error loops, no setup nightmares. Now anyone can build without boundaries." — @boltdotnew
+
+Structure: Category-level proclamation → scannable feature bullet stack → democratizing closer
+
+Use when: You're launching a major upgrade and want to signal this isn't just a feature update — it's a category shift. The bullet stack is scannable; the closer is emotionally expansive.
+
+---
+
+## The Open-Source Parallel Power Tool
+
+> "[Product name]: [action verb] [impressive thing] in parallel. Free and 100% open-source. [Specific integrations] from a single [interface]."
+
+Example: "Vibe Kanban: orchestrate multiple AI coding agents in parallel. Free and 100% open-source. Switch between Claude Code, Codex, Gemini CLI, and track task status from a single dashboard." — @addyosmani
+
+Structure: Named tool → killer capability → free/OSS credibility → specific integrations → single-pane-of-glass benefit
+
+Use when: You're launching an open-source developer tool — lead with capability, then immediately disarm every objection with "free and 100% open-source."
+
+---
+
+## The Empathy-Fix Announcement
+
+> "[Tool] seems to be fixing a super annoying [audience] problem. [Company] announced [Feature] — [one-sentence plain-English explanation]."
+
+Example: "Claude seems to be fixing a super annoying developer problem. Anthropic announced Auto Mode for Claude Code — let Claude automatically handle permission prompts during coding." — @rohanpaul_ai
+
+Structure: Shared pain empathy hook → company announcement as news peg → simple plain-English explainer
+
+Use when: A product ships a feature that solves a real, named frustration — lead with the pain, not the feature. "Super annoying" is more powerful than any product description.
+
+---
+
+## The Year-of Prediction with Insider Filter
+
+> "[Year] will be the year [thing] becomes the norm. Those that achieve success with it will be using [specific methodology/approach]."
+
+Example: "2026 will be the year vibe coding becomes the norm. Those that achieve success with it will be using approaches that GSD was built on: context engineering, spec driven development, metaprompting." — @official_taches
+
+Structure: Bold year prediction → success filter (not everyone wins) → insider framework reveal
+
+Use when: You have a genuine conviction about where a trend is heading AND a specific methodology for winning — the two-part structure turns a hot take into actionable advice.
+
+---
+
+## The Viral-Before-Product Reversal
+
+> "A [content piece] about my [product] hit [impressive number] [metric]. I didn't even have [expected prerequisite] yet."
+
+Example: "A tweet about my AI dev tool hit 250K views. I didn't even have a product yet." — Indie Hackers
+
+Structure: Surprising result → subverted expectation → lesson about attention vs. conversion
+
+Use when: You've experienced any outcome — good or bad — that defied the expected order of operations. The "didn't even have X yet" reversal is the hook; the lesson is the value.
+
+---
+
+## The Inverted Difficulty Unpopular Opinion
+
+> "Unpopular opinion: [Skill everyone assumes is hard] is the easiest part of [building/thing] now. [Unexpected skill] is the hardest."
+
+Example: "Unpopular opinion: Coding is the easiest part of building now. Marketing is the hardest." — AI builders consensus, March 2026
+
+Structure: Unpopular opinion signal → inverted conventional wisdom → implicit call to reprioritize
+
+Use when: AI has genuinely flipped the difficulty curve on something in your field — reordering what's "hard" touches the exact nerve of everyone who's hit that wall.
+
+---
