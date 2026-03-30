@@ -1,4 +1,4 @@
-name: Telegram Notify on Swipefile Update
+name: Notion Swipefile Update
 
 on:
   push:
@@ -7,73 +7,6 @@ on:
       - 'briefs/**'
 
 jobs:
-  notify:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-        with:
-          fetch-depth: 2
-
-      - name: Send brief to Telegram
-        run: |
-          python3 << 'PYEOF'
-          import urllib.request, urllib.parse, json, os, re, subprocess
-
-          BOT_TOKEN = os.environ['BOT_TOKEN']
-          CHAT_ID = os.environ['CHAT_ID']
-
-          def send(text):
-              data = urllib.parse.urlencode({'chat_id': CHAT_ID, 'text': text}).encode()
-              req = urllib.request.Request(
-                  f'https://api.telegram.org/bot{BOT_TOKEN}/sendMessage', data=data)
-              res = urllib.request.urlopen(req)
-              result = json.loads(res.read().decode())
-              if not result.get('ok'):
-                  print('Error:', result)
-                  raise SystemExit(1)
-
-          def strip_md(text):
-              text = re.sub(r'^#{1,3}\s+', '', text, flags=re.MULTILINE)
-              text = re.sub(r'\*\*([^*]+)\*\*', r'\1', text)
-              return text
-
-          diff = subprocess.check_output(
-              ['git', 'diff', 'HEAD~1', 'HEAD', '--', 'briefs/'], text=True)
-          new_lines = [l[1:] for l in diff.split('\n') if l.startswith('+') and not l.startswith('+++')]
-          content = '\n'.join(new_lines).strip()
-          if not content:
-              print('No new content'); raise SystemExit(0)
-          content = strip_md(content)
-
-          sections = content.split('\n---\n')
-          MAX = 4000
-          chunks = []
-          current = ''
-          for section in sections:
-              section = section.strip()
-              if not section:
-                  continue
-              block = section + '\n\n---\n\n'
-              if len(current) + len(block) > MAX:
-                  if current.strip():
-                      chunks.append(current.strip())
-                  current = block
-              else:
-                  current += block
-          if current.strip():
-              chunks.append(current.strip())
-          if not chunks:
-              print('Nothing to send'); raise SystemExit(0)
-
-          print(f'Sending {len(chunks)} messages...')
-          for i, chunk in enumerate(chunks, 1):
-              send(chunk)
-              print(f'Sent {i}/{len(chunks)}')
-          PYEOF
-        env:
-          BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-
   notion:
     runs-on: ubuntu-latest
     steps:
@@ -93,11 +26,15 @@ jobs:
 
           diff = subprocess.check_output(
               ['git', 'diff', 'HEAD~1', 'HEAD', '--', 'briefs/'], text=True)
-          new_lines = [l[1:] for l in diff.split('\n') if l.startswith('+') and not l.startswith('+++')]
-          content = '\n'.join(new_lines)
+          new_lines = [l[1:] for l in diff.split('
+') if l.startswith('+') and not l.startswith('+++')]
+          content = '
+'.join(new_lines)
 
           posts = []
-          for block in content.split('\n---\n'):
+          for block in content.split('
+---
+'):
               def get(field, b=block):
                   m = re.search(rf'\*\*{field}:\*\*\s*(.+)', b)
                   return m.group(1).strip() if m else ''
